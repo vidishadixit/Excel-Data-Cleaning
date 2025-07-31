@@ -24,4 +24,3 @@ The ratings column has a non-numeric value - In Power query, replaced the | to 1
 -columns will be segregated accordingly
 -delete unwanted columns and the data is ready."
 Separate categories columns
-<img width="387" height="441" alt="image" src="https://github.com/user-attachments/assets/79c93781-3edf-454c-a28a-5c08dea43539" />
